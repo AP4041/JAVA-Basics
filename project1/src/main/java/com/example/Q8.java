@@ -1,5 +1,5 @@
 package com.example;
 
-public class Q8 {
+public Q8 {
     
 }
