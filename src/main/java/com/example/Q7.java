@@ -1,6 +1,4 @@
 package com.example;
-
-
     import java.util.Scanner;
 
 public class Q7 {
@@ -10,7 +8,7 @@ public class Q7 {
         while (true) {
             System.out.println("1: Check prime");
             System.out.println("2: Print primes ≤ n");
-            System.out.println("3: Compute GCD and LCM");
+            System.out.println("3:  GCD and LCM");
             System.out.println("0: Exit");
             
             int choice = scanner.nextInt();
