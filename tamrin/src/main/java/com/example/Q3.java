@@ -42,6 +42,7 @@ public class Q3 {
             System.out.print("Enter your choice: ");
             n = sc.nextInt();
         }
+        sc.close();
 
     }
     
