@@ -9,7 +9,7 @@ public class Q1 {
 int n=scanner.nextInt();
 int []array=new int[n];
  
-float avr,min,max,sum=0;;
+float avr,min,max,sum=0;
 for(int i=0;i<n;i++)array[i]=scanner.nextInt();
 min=array[0];
 max=array[0];
