@@ -10,7 +10,7 @@ public class  Q5 {
         System.out.println("2️ Fahrenheit → Celsius (C = (F−32)/1.8)   ");
 System.out.println("3 Kilometer → Mile (mile = km×0.621371)  ");
 System.out.println("4  Mile → Kilometer (km = mile/0.621371) ");
-System.out.println("5  exit");
+System.out.println("0  exit");
 
         while (true) {
             int choice = scanner.nextInt();
