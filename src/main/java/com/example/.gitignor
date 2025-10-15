@@ -1,9 +1,0 @@
-# Java / Maven
-target/
-*.class
-*.log
-
-# IDEs
-.vscode/
-.idea/
-*.iml
