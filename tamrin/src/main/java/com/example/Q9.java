@@ -24,7 +24,8 @@ public class Q9 {
                 System.out.println("Congratulations! You've guessed the number " + r + " in " + count + " attempts.");
             }
         } while (guess != r);
-
+        sc.close();
     }
+
     
 }
