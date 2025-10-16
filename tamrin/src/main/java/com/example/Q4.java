@@ -5,8 +5,8 @@ public class Q4 {
         String text = "Java   is   cool";
         text = text.trim();
 
-        char[] chars = text.toCharArray(); // تبدیل به آرایه‌ی کاراکترها
-        String[] words = text.split("\\s+"); // جدا کردن کلمات بر اساس فاصله
+        char[] chars = text.toCharArray(); // convert string to char array
+        String[] words = text.split("\\s+"); // split string into words
         
         for (char c : chars) {
             System.out.print(c + " ");
