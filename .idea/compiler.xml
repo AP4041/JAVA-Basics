@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ex4" />
+        <module name="ex3" />
+        <module name="ex6" />
+        <module name="ex5" />
+        <module name="ex8" />
+        <module name="ex7" />
+        <module name="ex9" />
+        <module name="ex10" />
+        <module name="ex2" />
+        <module name="ex1" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
