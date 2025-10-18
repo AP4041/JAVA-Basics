@@ -17,6 +17,7 @@ public class P3 {
             ch = Integer.parseInt(a);
 
             if (ch == 0) {
+                System.out.println("Bye!");
                 break;
             }
 
